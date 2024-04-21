@@ -1,0 +1,54 @@
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\Desafios\JogoDaVelha\JogoDaVelha\bin\Debug\net6.0-windows\JogoDoGalo.exe
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\Desafios\JogoDaVelha\JogoDaVelha\bin\Debug\net6.0-windows\JogoDoGalo.deps.json
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\Desafios\JogoDaVelha\JogoDaVelha\bin\Debug\net6.0-windows\JogoDoGalo.runtimeconfig.json
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\Desafios\JogoDaVelha\JogoDaVelha\bin\Debug\net6.0-windows\JogoDoGalo.dll
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\Desafios\JogoDaVelha\JogoDaVelha\bin\Debug\net6.0-windows\JogoDoGalo.pdb
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\Desafios\JogoDaVelha\JogoDaVelha\obj\Debug\net6.0-windows\JogoDoGalo.csproj.AssemblyReference.cache
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\Desafios\JogoDaVelha\JogoDaVelha\obj\Debug\net6.0-windows\JogoDaVelha.Form1.resources
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\Desafios\JogoDaVelha\JogoDaVelha\obj\Debug\net6.0-windows\JogoDoGalo.Properties.Resources.resources
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\Desafios\JogoDaVelha\JogoDaVelha\obj\Debug\net6.0-windows\JogoDoGalo.csproj.GenerateResource.cache
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\Desafios\JogoDaVelha\JogoDaVelha\obj\Debug\net6.0-windows\JogoDoGalo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\Desafios\JogoDaVelha\JogoDaVelha\obj\Debug\net6.0-windows\JogoDoGalo.AssemblyInfoInputs.cache
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\Desafios\JogoDaVelha\JogoDaVelha\obj\Debug\net6.0-windows\JogoDoGalo.AssemblyInfo.cs
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\Desafios\JogoDaVelha\JogoDaVelha\obj\Debug\net6.0-windows\JogoDoGalo.csproj.CoreCompileInputs.cache
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\Desafios\JogoDaVelha\JogoDaVelha\obj\Debug\net6.0-windows\JogoDoGalo.dll
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\Desafios\JogoDaVelha\JogoDaVelha\obj\Debug\net6.0-windows\refint\JogoDoGalo.dll
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\Desafios\JogoDaVelha\JogoDaVelha\obj\Debug\net6.0-windows\JogoDoGalo.pdb
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\Desafios\JogoDaVelha\JogoDaVelha\obj\Debug\net6.0-windows\JogoDoGalo.genruntimeconfig.cache
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\Desafios\JogoDaVelha\JogoDaVelha\obj\Debug\net6.0-windows\ref\JogoDoGalo.dll
+C:\Users\3xmin\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\Desafios\JogoDaVelha\JogoDaVelha\bin\Debug\net6.0-windows\JogoDoGalo.exe
+C:\Users\3xmin\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\Desafios\JogoDaVelha\JogoDaVelha\bin\Debug\net6.0-windows\JogoDoGalo.deps.json
+C:\Users\3xmin\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\Desafios\JogoDaVelha\JogoDaVelha\bin\Debug\net6.0-windows\JogoDoGalo.runtimeconfig.json
+C:\Users\3xmin\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\Desafios\JogoDaVelha\JogoDaVelha\bin\Debug\net6.0-windows\JogoDoGalo.dll
+C:\Users\3xmin\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\Desafios\JogoDaVelha\JogoDaVelha\bin\Debug\net6.0-windows\JogoDoGalo.pdb
+C:\Users\3xmin\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\Desafios\JogoDaVelha\JogoDaVelha\obj\Debug\net6.0-windows\JogoDoGalo.csproj.AssemblyReference.cache
+C:\Users\3xmin\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\Desafios\JogoDaVelha\JogoDaVelha\obj\Debug\net6.0-windows\JogoDaVelha.Form1.resources
+C:\Users\3xmin\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\Desafios\JogoDaVelha\JogoDaVelha\obj\Debug\net6.0-windows\JogoDoGalo.Properties.Resources.resources
+C:\Users\3xmin\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\Desafios\JogoDaVelha\JogoDaVelha\obj\Debug\net6.0-windows\JogoDoGalo.csproj.GenerateResource.cache
+C:\Users\3xmin\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\Desafios\JogoDaVelha\JogoDaVelha\obj\Debug\net6.0-windows\JogoDoGalo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\3xmin\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\Desafios\JogoDaVelha\JogoDaVelha\obj\Debug\net6.0-windows\JogoDoGalo.AssemblyInfoInputs.cache
+C:\Users\3xmin\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\Desafios\JogoDaVelha\JogoDaVelha\obj\Debug\net6.0-windows\JogoDoGalo.AssemblyInfo.cs
+C:\Users\3xmin\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\Desafios\JogoDaVelha\JogoDaVelha\obj\Debug\net6.0-windows\JogoDoGalo.csproj.CoreCompileInputs.cache
+C:\Users\3xmin\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\Desafios\JogoDaVelha\JogoDaVelha\obj\Debug\net6.0-windows\JogoDoGalo.dll
+C:\Users\3xmin\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\Desafios\JogoDaVelha\JogoDaVelha\obj\Debug\net6.0-windows\refint\JogoDoGalo.dll
+C:\Users\3xmin\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\Desafios\JogoDaVelha\JogoDaVelha\obj\Debug\net6.0-windows\JogoDoGalo.pdb
+C:\Users\3xmin\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\Desafios\JogoDaVelha\JogoDaVelha\obj\Debug\net6.0-windows\JogoDoGalo.genruntimeconfig.cache
+C:\Users\3xmin\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\Desafios\JogoDaVelha\JogoDaVelha\obj\Debug\net6.0-windows\ref\JogoDoGalo.dll
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Desafios\JogoDaVelha\JogoDaVelha\bin\Debug\net6.0-windows\JogoDoGalo.exe
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Desafios\JogoDaVelha\JogoDaVelha\bin\Debug\net6.0-windows\JogoDoGalo.deps.json
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Desafios\JogoDaVelha\JogoDaVelha\bin\Debug\net6.0-windows\JogoDoGalo.runtimeconfig.json
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Desafios\JogoDaVelha\JogoDaVelha\bin\Debug\net6.0-windows\JogoDoGalo.dll
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Desafios\JogoDaVelha\JogoDaVelha\bin\Debug\net6.0-windows\JogoDoGalo.pdb
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Desafios\JogoDaVelha\JogoDaVelha\obj\Debug\net6.0-windows\JogoDoGalo.csproj.AssemblyReference.cache
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Desafios\JogoDaVelha\JogoDaVelha\obj\Debug\net6.0-windows\JogoDaVelha.Form1.resources
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Desafios\JogoDaVelha\JogoDaVelha\obj\Debug\net6.0-windows\JogoDoGalo.Properties.Resources.resources
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Desafios\JogoDaVelha\JogoDaVelha\obj\Debug\net6.0-windows\JogoDoGalo.csproj.GenerateResource.cache
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Desafios\JogoDaVelha\JogoDaVelha\obj\Debug\net6.0-windows\JogoDoGalo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Desafios\JogoDaVelha\JogoDaVelha\obj\Debug\net6.0-windows\JogoDoGalo.AssemblyInfoInputs.cache
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Desafios\JogoDaVelha\JogoDaVelha\obj\Debug\net6.0-windows\JogoDoGalo.AssemblyInfo.cs
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Desafios\JogoDaVelha\JogoDaVelha\obj\Debug\net6.0-windows\JogoDoGalo.csproj.CoreCompileInputs.cache
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Desafios\JogoDaVelha\JogoDaVelha\obj\Debug\net6.0-windows\JogoDoGalo.dll
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Desafios\JogoDaVelha\JogoDaVelha\obj\Debug\net6.0-windows\refint\JogoDoGalo.dll
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Desafios\JogoDaVelha\JogoDaVelha\obj\Debug\net6.0-windows\JogoDoGalo.pdb
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Desafios\JogoDaVelha\JogoDaVelha\obj\Debug\net6.0-windows\JogoDoGalo.genruntimeconfig.cache
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Desafios\JogoDaVelha\JogoDaVelha\obj\Debug\net6.0-windows\ref\JogoDoGalo.dll
